@@ -54,9 +54,6 @@ Install these packages using the following command in R:
 install.packages(c("tidyverse", "scales"))
 ```
 
-## License
-This analysis is released under the [MIT License](LICENSE).
-
 ## Author
 This analysis is authored by [hassan].
 
